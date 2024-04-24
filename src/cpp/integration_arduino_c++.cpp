@@ -1,3 +1,4 @@
+#include <iostream>
 #include <wire.h>
 
 void setup() {
